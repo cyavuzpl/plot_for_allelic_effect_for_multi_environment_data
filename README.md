@@ -1,0 +1,1 @@
+This script processes SNP data from an Excel file and generates a plot to visualize percent changes across different environments. The plot highlights significant SNPs and adjusts point sizes based on the magnitude of change.
